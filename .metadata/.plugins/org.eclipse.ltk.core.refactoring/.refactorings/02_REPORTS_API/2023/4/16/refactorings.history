@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;in.ashokit.prop&apos; to &apos;in.ashokit.props&apos;&#x0D;&#x0A;- Original project: &apos;02_REPORTS_API&apos;&#x0D;&#x0A;- Original element: &apos;02_REPORTS_API/src/main/java/in.ashokit.prop&apos;&#x0D;&#x0A;- Renamed element: &apos;02_REPORTS_API/src/main/java/in.ashokit.props&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;in.ashokit.prop&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.ashokit.prop" name="in.ashokit.props" qualified="false" references="true" stamp="1682158332502" textual="false" version="1.0"/>
+</session>

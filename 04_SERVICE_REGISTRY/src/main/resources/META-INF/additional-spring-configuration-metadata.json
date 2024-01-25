@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "server.eureka.register-with-eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'server.eureka.register-with-eureka'"
+  },
+  {
+    "name": "server.eureka.client",
+    "type": "java.lang.String",
+    "description": "A description for 'server.eureka.client'"
+  }
+]}

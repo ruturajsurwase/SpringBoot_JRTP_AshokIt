@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "server.spring.application.name",
+    "type": "java.lang.String",
+    "description": "A description for 'server.spring.application.name'"
+  },
+  {
+    "name": "boot.admin.client.url",
+    "type": "java.lang.String",
+    "description": "A description for 'boot.admin.client.url'"
+  },
+  {
+    "name": "management.endpoints.web.include",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoints.web.include'"
+  }
+]}

@@ -1,0 +1,82 @@
+{"properties": [
+  {
+    "name": "plan-api.masseges.plan-save-succ",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.masseges.plan-save-succ'"
+  },
+  {
+    "name": "plan-api.masseges.planSaveFail",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.masseges.planSaveFail'"
+  },
+  {
+    "name": "plan-api.masseges.planUpdateSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.masseges.planUpdateSucc'"
+  },
+  {
+    "name": "plan-api.masseges.planUpdateFail",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.masseges.planUpdateFail'"
+  },
+  {
+    "name": "plan-api.masseges.planDeleteSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.masseges.planDeleteSucc'"
+  },
+  {
+    "name": "plan-api.masseges.planDeleteFail",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.masseges.planDeleteFail'"
+  },
+  {
+    "name": "plan-api.masseges.planStatusChange",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.masseges.planStatusChange'"
+  },
+  {
+    "name": "plan-api.masseges.planStatusChangeFail",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.masseges.planStatusChangeFail'"
+  },
+  {
+    "name": "plan-api.messeges.plan-save-succ",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messeges.plan-save-succ'"
+  },
+  {
+    "name": "plan-api.messeges.planSaveFail",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messeges.planSaveFail'"
+  },
+  {
+    "name": "plan-api.messeges.planUpdateSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messeges.planUpdateSucc'"
+  },
+  {
+    "name": "plan-api.messeges.planUpdateFail",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messeges.planUpdateFail'"
+  },
+  {
+    "name": "plan-api.messeges.planDeleteSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messeges.planDeleteSucc'"
+  },
+  {
+    "name": "plan-api.messeges.planDeleteFail",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messeges.planDeleteFail'"
+  },
+  {
+    "name": "plan-api.messeges.planStatusChange",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messeges.planStatusChange'"
+  },
+  {
+    "name": "plan-api.messeges.planStatusChangeFail",
+    "type": "java.lang.String",
+    "description": "A description for 'plan-api.messeges.planStatusChangeFail'"
+  }
+]}

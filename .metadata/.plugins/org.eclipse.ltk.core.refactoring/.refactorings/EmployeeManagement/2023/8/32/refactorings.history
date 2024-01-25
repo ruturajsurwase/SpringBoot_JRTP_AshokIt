@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;in.ashokit.controllertest&apos; to &apos;in.ashokit.controller&apos;&#x0D;&#x0A;- Original project: &apos;EmployeeManagement&apos;&#x0D;&#x0A;- Original element: &apos;EmployeeManagement/src/test/java/in.ashokit.controllertest&apos;&#x0D;&#x0A;- Renamed element: &apos;EmployeeManagement/src/test/java/in.ashokit.controller&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;in.ashokit.controllertest&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;in.ashokit.controllertest" name="in.ashokit.controller" qualified="false" references="true" stamp="1691385596125" textual="false" version="1.0"/>
+</session>

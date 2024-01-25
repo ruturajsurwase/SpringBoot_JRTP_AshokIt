@@ -1,0 +1,39 @@
+package StreamAPI;
+
+
+public class PractiseString 
+{
+  public static void main(String[] args)
+  {
+	  
+	  
+	  
+	  
+	  
+	  String a="rutu";
+	  String b="rutu";
+	  System.out.println(a==b);          //true
+	  System.out.println(a.equals(b));   //true
+	  
+	 
+	 String  s1 =new String("durga");
+	 String  s2= new String("durga");
+	 System.out.println(s1==s2);                //false
+	 System.out.println(s1.equals(s2));         //true
+	 
+	 
+	 
+	 
+	   String s="Durga";
+	   
+	   char charAt = s.charAt(2);
+	   System.out.println(charAt);
+	   
+	 
+	 
+	  
+
+	       
+	  
+  }
+}
